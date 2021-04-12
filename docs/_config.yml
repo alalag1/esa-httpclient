@@ -1,5 +1,10 @@
 title: "ESA HttpCilent"
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
 plugins:
   - jekyll-include-cache
