@@ -1,18 +1,4 @@
-title: ESA Restlight
-lang: en
-description: ESA Restlight is a lightweight and rest-oriented web framework
-
-remote_theme: alalag1/jekyll-rtd-theme
-
-readme_index:
-  with_frontmatter: true
-
-exclude:
-  - Makefile
-  - Gemfile
-  - Gemfile.lock
-
-plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
+title: "ESA HttpCilent"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
