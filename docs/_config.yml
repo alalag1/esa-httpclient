@@ -1,4 +1,2 @@
 title: "ESA HttpCilent"
-remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+remote_theme: mmistakes/minimal-mistakes@4.22.0
