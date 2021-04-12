@@ -2,7 +2,7 @@ title: ESA HttpClient
 lang: en
 description: ESA HttpClient is an asynchronous event-driven http client based on netty
 
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: alalag1/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
