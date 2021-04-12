@@ -16,3 +16,5 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+
+theme: jekyll-theme-cayman
